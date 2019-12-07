@@ -1,2 +1,6 @@
 # hello-world
-just for the fun of it
+
+Hello there
+
+This is a discriptor for bots
+
